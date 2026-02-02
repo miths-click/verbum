@@ -1071,7 +1071,10 @@ let word = [
   ['prīmum', 'prīmum', '', ['at first']],
   ['quā', 'quā', '', ['where']],
   ['tantum', 'tantum', '', ['only', 'so great']],
-  ['velut', 'velut', '', ['just as']]
+  ['velut', 'velut', '', ['just as']],
+  ['Romam', 'Romam', '', ['to Rome']],
+  ['romanus', 'romanus, romani', 'm.', ['roman']],
+  ['arx', 'arx, arcis', 'f.', ['cidadel']]
 ]
 let stage = [
   [89, 153, 275, 322, 348, 349, 391, 434, 553, 700, 709, 744, 824],
@@ -1910,5 +1913,6 @@ loadSettings();      // settings
 loadStages();        // selected stages
 loadDopamineBox();   // dopamine box stats
 loadResultOptions(); // result options
+
 
 changeScreen(0);
