@@ -223,7 +223,10 @@ dict = {
     "prīmum": ["at first"],
     "quā": ["where"],
     "tantum": ["only", "so great"],
-    "velut": ["just as"]
+    "velut": ["just as"],
+    "Romam": ["to Rome"],
+    "romanus, romani, m.": ["Roman"],
+    "arx, arcis, f.": ["citadel"]
 }
 list = []
 stage = []
