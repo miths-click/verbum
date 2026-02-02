@@ -1,6 +1,6 @@
 # Verbum
-
-https://richie528.github.io/verbum/
+New words: https://miths-click.github.io/verbum/
+The OG: https://richie528.github.io/verbum/
 
 > a vocabulary tester for the Cambridge Latin Course
 
